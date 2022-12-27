@@ -9,7 +9,7 @@ print("Welcome to your Magnetic Field Strength Converter")
 # kiloampere/meter
 # oersted 
 
-# Conversation for each unit type 
+# Conversation for each unit type - The conversion values are incorrecet
 conversion = {
     "ampere meter": {
         "ampere turn" : 1,
